@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.f6133540.css",
-    "main.js": "/static/js/main.e662e0fc.js",
+    "main.js": "/static/js/main.954397c5.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/colors.jpg": "/static/media/colors.20a3315cf094c33fb749.jpg",
     "static/media/equadratic.jpg": "/static/media/equadratic.11d629694099548f914b.jpg",
     "static/media/equadratic_2.jpg": "/static/media/equadratic_2.9e21a22a098a4ec2b336.jpg",
     "index.html": "/index.html",
     "main.f6133540.css.map": "/static/css/main.f6133540.css.map",
-    "main.e662e0fc.js.map": "/static/js/main.e662e0fc.js.map",
+    "main.954397c5.js.map": "/static/js/main.954397c5.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6133540.css",
-    "static/js/main.e662e0fc.js"
+    "static/js/main.954397c5.js"
   ]
 }
